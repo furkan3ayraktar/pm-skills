@@ -8,6 +8,7 @@
 |---|---|
 | `frame-problem` | Getting from a vague request to a clear problem, business value, and next step. Inspired by [Framing](https://www.ryansinger.co/framing/) |
 | `shape-product-pitch` | Turning a framed problem and direction into a concise product pitch. Inspired by [Shape Up](https://basecamp.com/shapeup) |
+| `measure-impact` | Defining impact hypotheses, measures, and instrumentation |
 | `create-okr` | Creating, sharpening, grading, and target-setting concise OKRs. Inspired by [What Matters](https://www.whatmatters.com/) |
 | `create-strategy-canvas` | Creating an evidence-backed strategy canvas with cited competitor dossiers, crisp visual value curves when supported, plotted ASCII fallback when not, and ERRC moves. Inspired by [Strategy Canvas](https://www.blueoceanstrategy.com/tools/strategy-canvas/) |
 | `create-issue` | Writing tracker-ready issues with context, done criteria, and scope |
