@@ -13,6 +13,7 @@
 | `create-strategy-canvas` | Creating an evidence-backed strategy canvas with cited competitor dossiers, crisp visual value curves when supported, plotted ASCII fallback when not, and ERRC moves. Inspired by [Strategy Canvas](https://www.blueoceanstrategy.com/tools/strategy-canvas/) |
 | `create-issue` | Writing tracker-ready issues with context, done criteria, and scope |
 | `estimate-timeline` | Creating launch estimates with milestones, risks, and scope tradeoffs |
+| `tidy-project` | Guiding project cleanup across connected planning tools, resolving gaps in scope, ownership, success measures, dates, and updates |
 | `make-decision` | Turning fuzzy tradeoffs into decision memos with recommendations |
 | `my-status` | Drafting concise personal PM status updates |
 | `team-status` | Summarizing shipped work, in-flight work, risks, and upcoming dates |
